@@ -2,7 +2,7 @@
 About me
 👨‍💻 Frontend developer
 
-🌱 Learning HTML at Yandex.Praktikum
+🌱 Learning Web Development at Yandex.Praktikum
 
 
 💻 Tech stack:
