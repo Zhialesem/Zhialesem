@@ -12,9 +12,9 @@ My Skills
 👩🏻‍🎓 Currently learning&plans:
 
 Vue.js
-Nuxt.js
 React.js
 Node.js
+Python
 
 📱 https://t.me/arkhanar
 📧 zhialesem@gmail.com
