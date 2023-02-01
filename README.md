@@ -18,6 +18,6 @@ Python
 
 📱 https://t.me/arkhanar
 📧 zhialesem@gmail.com
-💼 https://www.linkedin.com/
+💼 https:/www.linkedin.com/in/zhidkov-aleksandr
 
 Top Langs
