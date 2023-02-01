@@ -6,6 +6,7 @@ About me
 
 
 💻 Tech stack:
+HTML CSS JavaScript
 
 My Skills
 
